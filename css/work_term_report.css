@@ -1,0 +1,55 @@
+/*!
+ * Start Bootstrap - One Page Wonder (https://startbootstrap.com/template-overviews/one-page-wonder)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-one-page-wonder/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+header.masthead {
+  background: url('https://www.uoguelph.ca/campus/map/img/2016/j-hall.jpg') no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+header.spartanHead {
+  background: url('https://images.vts.com/view-the-space/image/upload/v1511166980/ucrkj7fb8efogrjhswmi.jpg') no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+header.masthead>.overlay {
+  padding: 5rem 0;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.6);
+}
+
+@media (min-width: 992px) {
+  header.masthead>.overlay {
+    padding: 10rem 0;
+  }
+}
+
+header.spartanHead>.overlay {
+  padding: 5rem 0;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.6);
+}
+
+@media (min-width: 992px) {
+  header.spartanHead>.overlay {
+    padding: 10rem 0;
+  }
+}
